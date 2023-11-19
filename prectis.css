@@ -1,0 +1,8 @@
+.list{
+    
+    background-color: blanchedalmond;
+   
+    list-style-image:  url(logo.jpg);
+    padding: 10px;
+    list-style-position: inside;
+}
